@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suresh Choudhary</h1>
 <h3 align="center">Data Scientist / Sr. Generative AI Engineer / Sr. Machine Learning Engineer / Sr. Data Engineer</h3>
-<h3 align="center"> As a seasoned professional in the realm of data and AI, Suresh excels as a Data Scientist and Senior Engineer in Generative AI, Machine Learning, and Data Engineering. With expertise honed over years of experience, Suresh leverages advanced analytical techniques to extract insights and drive innovation in complex datasets. Their passion for pushing the boundaries of AI technology underscores a commitment to delivering impactful solutions and staying at the forefront of the ever-evolving field. </h3>
+As a seasoned professional in the realm of data and AI, Suresh excels as a Data Scientist and Senior Engineer in Generative AI, Machine Learning, and Data Engineering. With expertise honed over years of experience, Suresh leverages advanced analytical techniques to extract insights and drive innovation in complex datasets. Their passion for pushing the boundaries of AI technology underscores a commitment to delivering impactful solutions and staying at the forefront of the ever-evolving field.
 
 - 🌱 I’m currently learning **Generative AI**
 
