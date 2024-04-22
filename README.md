@@ -14,7 +14,7 @@ As a seasoned professional in the realm of data and AI, Suresh excels as a Data 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.xing.com/profile/suresh_choudhary3" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="https://www.xing.com/profile/suresh_choudhary3" height="30" width="40" /></a>
+<a href="https://www.xing.com/profile/suresh_choudhary3" target="blank"><img align="center" src="https://icons8.com/icon/13979/xing" alt="https://www.xing.com/profile/suresh_choudhary3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
